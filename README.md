@@ -5,6 +5,8 @@ performance between different devices (ESP-32, Arduino, ESP-8266) and different 
 
 Each neural network resolves a practical use case: room occpuncy detection, drowsiness detection, time series forecast.
 
+At the end is also studied how full integer quantization impacts in time forecast.
+
 * **file TinyMLperformanceEval.pdf**: report of the project;
 * **folder python**: notebook e i dataset used for model creation and for data display;
 * **folder device_code**: contains a folder for each problem considered (room occupancy detection, drowsiness detection, time series and quantization). 
